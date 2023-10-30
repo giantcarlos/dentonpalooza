@@ -1,6 +1,6 @@
 # **Dentonpalooza 2023**
 
-This is a freelance project and the official website of Denton's Dentonpalooza Festival 2023.
+This is a freelance project and the official website of Denton's Dentonpalooza Festival. Dentonpalooza is a non-profit, charity fundraising event that started as a joke in 2021.
 
 ### **Tech**
 ---
@@ -15,10 +15,10 @@ This is a freelance project and the official website of Denton's Dentonpalooza F
 ---
 
 - https://dentonpalooza.com/
-- https://giantcarlos.github.io/dentonpalooza23/
+- https://giantcarlos.github.io/dentonpalooza/
 
 
 ### **Github**
 ---
 
-- https://github.com/giantcarlos/dentonpalooza23
+- https://github.com/giantcarlos/dentonpalooza
