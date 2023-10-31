@@ -8,7 +8,7 @@ function App() {
       </header>
       <div className="container">
         <div className="card">
-          <div className="card-title">THANK YOU DENTON, TX!</div>
+          <div className="card-title">THANK YOU DENTON, TX</div>
           <div className="card-details">Thank you for a successful DENTONPALOOZA 3. Over $4k was raised, putting our lifetime contributions to charity over $26k. See you next year!</div>
         </div>
         <div className="card">
