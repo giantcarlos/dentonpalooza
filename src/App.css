@@ -299,7 +299,7 @@ button {
 }
 
 .press-title {
-  color: red;
+  color: #ff4141;
   margin-left: 1.5rem;
   margin-right: 1.5rem;
   margin-bottom: .75rem;
@@ -317,7 +317,7 @@ button {
 
 a {
   text-decoration: none;
-  color: rgb(255, 0, 0);
+  color: #ff4141;
 }
 
 @media only screen 
