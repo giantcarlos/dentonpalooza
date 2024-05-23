@@ -24,14 +24,14 @@ body {
 header {
   margin-left: auto;
   margin-right: auto;
-  font-size: 56px;
-  font-weight: 900;
   line-height: 0;
   letter-spacing: -1px;
 }
 
-header, p {
-  margin-bottom: 3.5rem;
+h1 {
+  font-size: 56px;
+  font-weight: 900;
+  margin-bottom: 3.4rem;
 }
 
 h2 {
@@ -323,8 +323,9 @@ a {
 @media only screen 
 and (min-width : 640px) 
 and (max-width : 1024px) {
-  header {
+  h1 {
     font-size: 42px;
+    margin-bottom: 2.6rem;
   }
   h2 {
     font-size: 27px;
@@ -338,8 +339,9 @@ and (max-width : 1024px) {
 }
 
 @media only screen and (max-width : 640px) {
-  header {
+  h1 {
     font-size: 29.1px;
+    margin-bottom: 1.75rem;
   }
   h2 {
     font-size: 19px;

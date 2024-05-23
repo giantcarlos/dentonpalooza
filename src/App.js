@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header>
-        <p>DENTONPALOOZA 3</p>
+        <h1>DENTONPALOOZA 3</h1>
       </header>
       <div className="container">
         <div className="card">
