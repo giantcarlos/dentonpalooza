@@ -41,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-size: 27.675px;
+  font-size: 32px;
   font-weight: 500;
   color: #555555;
 }
@@ -105,7 +105,7 @@ hr {
 }
 
 .container {
-  max-width: 60%;
+  max-width: 70%;
   margin-top: .75rem;
   margin-bottom: 3rem;
   margin-left: auto;
@@ -223,6 +223,11 @@ button {
   cursor: pointer;
 }
 
+.DP4 {
+  width: 100%;
+  height: auto;
+}
+
 .schedule-image {
   width: 45.5%;
   float: left;
@@ -331,7 +336,7 @@ and (max-width : 1024px) {
     font-size: 27px;
   }
   h3 {
-    font-size: 20.75px;
+    font-size: 24px;
   }
   hr {
     width: 432px;
@@ -347,7 +352,7 @@ and (max-width : 1024px) {
     font-size: 19px;
   }
   h3 {
-    font-size: 14.75px;
+    font-size: 17px;
   }
   hr {
     width: 300px;
