@@ -11,7 +11,9 @@ function App() {
       </header>
       <div className="container">
         <img src="./images/DP4.JPEG" className="DP4" alt='setlist poster' />
-      </div>
+        <div className="tickets">
+            <a href='https://www.prekindle.com/event/49535-dentonpalooza-4-denton' target="_blank">Tickets</a>&nbsp;are now on sale!</div>
+        </div>
       <div className="footer">
       <div className="footer-detail">Follow us on Instragram&nbsp;
           <a href='https://www.instagram.com/dentonpalooza/' target="_blank">@dentonpalooza</a>

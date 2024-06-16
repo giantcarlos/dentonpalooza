@@ -205,6 +205,12 @@ hr {
   padding-right: 1.5rem;
 }
 
+.tickets {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
 button {
   width: 12rem;
   font-family: Helvetica, Arial, sans-serif;
@@ -387,6 +393,9 @@ and (max-width : 1024px) {
   }
   .card-details {
     font-size: .925rem;letter-spacing: normal;
+  }
+  .tickets {
+    font-size: 1.375rem;
   }
   button {
     border: 1.5px solid #303030;;
