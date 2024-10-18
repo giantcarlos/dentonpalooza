@@ -60,7 +60,6 @@ h3 {
 nav {
   padding: 1rem;
   color: white;
-  text-align: left;
   position: fixed;
   background-color: rgb(0, 0, 0, 7);
   height: 5.125rem;
@@ -76,58 +75,8 @@ nav {
 
 .header {
   font-size: 2.25rem;
-}
-
-.sub-header {
-  font-size: 1.125rem;
-  float: right;
-  margin-top: .75rem;
-  margin-right: 1rem;
-}
-
-.hamburger {
-  float: left;
-  margin-right: 1.5rem;
-  z-index: 100;
-  position: relative;
-  pointer-events: all;
-}
-
-.nav-links {
-  top: 0;
-  left: -200%;
-  position: fixed;
-  background-color: rgb(44, 44, 44);
-  width: 30%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 1.5rem;
-  transition: 0.5s ease-in-out;
-  transform: translateX(100%);
-  z-index: 10;
-  
-}
-
-.nav-links-active {
-  top: 0;
-  left: 0;
-  position: fixed;
-  background-color: rgb(44, 44, 44);
-  opacity: 95%;
-  width: 30%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 1.5rem;
-  transition: 0.5s ease-in-out;
-  transform: translateX(0);
-  z-index: 10;
-  pointer-events: all;
+  margin-left: auto;
+  margin-left: auto;
 }
 
 .image-grid {
