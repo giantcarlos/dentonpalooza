@@ -32,8 +32,8 @@ function NavBar() {
 
     return (
         <nav>
-            <motion.div variants={item} initial="hidden" animate="show" transition={{duration: 1, delay:.75}} className="header">DENTONPALOOZA
-            </motion.div>
+            <div variants={item} initial="hidden" animate="show" transition={{duration: 1, delay:.75}} className="header">DENTONPALOOZA
+            </div>
         </nav>
     )
 }
