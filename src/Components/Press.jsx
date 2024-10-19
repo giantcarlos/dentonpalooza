@@ -6,8 +6,7 @@ export default class Press extends Component {
 
     const item = {
       hidden: { y: 500 },
-      show: { y: 0 },
-      trans: { }
+      show: { y: 0 }
     }
 
     return (
