@@ -5,7 +5,7 @@ export default class Press extends Component {
   render() {
 
     const item = {
-      hidden: { y: 400 },
+      hidden: { y: 500 },
       show: { y: 0 },
       trans: { }
     }
