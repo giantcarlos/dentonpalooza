@@ -10,7 +10,7 @@ function NavBar() {
     
     return (
         <nav>
-            <motion.div variants={item} initial="hidden" animate="show" transition={{duration: 1, delay: 4.5}} className="header">DENTONPALOOZA
+            <motion.div variants={item} initial="hidden" animate="show" transition={{duration: 1.5, delay: 4.25}} className="header">DENTONPALOOZA
             </motion.div>
         </nav>
     )
