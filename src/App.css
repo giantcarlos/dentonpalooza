@@ -163,7 +163,7 @@ nav {
   color: #eeeeee;
   margin-top: 4rem;
   margin-bottom: 3rem;
-  font-size: 1.25rem;
+  font-size: 3rem;
 }
 
 .press-card {
@@ -221,7 +221,7 @@ nav {
 }
 
 .footer {
-  margin-top: 4rem;
+  margin-top: 18rem;
   border-top: 1px solid #c5c5c5;
   width: 80%;
   margin-left: auto;
@@ -366,7 +366,7 @@ nav {
     display: block;
   }
   .press-header {
-    font-size: 1.125rem;
+    font-size: 2rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
   }
@@ -387,7 +387,7 @@ nav {
   }
   .footer {
     font-size: .925rem;
-    margin-top: 2rem;
+    margin-top: 15rem;
     margin-bottom: 4rem;
     width: 90%;
   }

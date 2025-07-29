@@ -5,14 +5,14 @@ export default class Press extends Component {
   render() {
 
     const item = {
-      hidden: { y: 500 },
-      show: { y: 0 }
+      hidden: { opacity: 0 },
+      show: { opacity: 1 }
     }
 
     return (
-      <motion.section variants={item} initial="hidden" animate="show" transition={{duration: 1.75, delay: 3.5 }} id="press" className="press">
-        <h2 className="press-header">PRESS FOR DENTONPALOOZA 4</h2>
-        <div className="press-grid">
+      <motion.section variants={item} initial="hidden" animate="show" transition={{duration: 1.75, delay: 3.75 }} id="press" className="press">
+        <h2 className="press-header">DENTONPALOOZA 5</h2>
+        {/* <div className="press-grid">
             <a className="press-card" href="https://dentonrc.com/entertainment/dentonpalooza-4-books-dentons-mad-max-truck-invites-mayor-to-sing-nu-metal-onstage-and/article_3f17c2a2-2c1d-11ef-9010-f3ac1b7b25c4.html" target="_blank">
                 <div className="press-image">
                     <img src="https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/b/a0/ba0c019e-2c1d-11ef-8551-37aea93f8aad/653f243f5ec69.image.jpg?resize=750%2C500" className="image-gray" alt='Joey Liechty on stage at Dentonpalooza 3' />
@@ -33,7 +33,7 @@ export default class Press extends Component {
                     <div className="press-details">6.21.24</div>
                 </div>
             </a>
-        </div>
+        </div> */}
       </motion.section>
     )
   }

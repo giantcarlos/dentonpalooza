@@ -24,9 +24,9 @@ function App() {
   return (
     <BrowserRouter>
       <div>
-        <header>
+        {/* <header>
           <NavBar />
-        </header>
+        </header> */}
         <Message />
         <Press />
         <Footer />
