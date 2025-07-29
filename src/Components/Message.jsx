@@ -22,7 +22,7 @@ export default class Message extends Component {
 
     return (
       <motion.section variants={container} initial="hidden" animate="show" className="message">
-        <motion.p variants={item} >Dentonpalooza returns.</motion.p>
+        <motion.p variants={item} >DENTONPALOOZA returns.</motion.p>
         <motion.p variants={item} >October 11, 2025. Dan's Silverleaf.</motion.p>
       </motion.section>
     )
