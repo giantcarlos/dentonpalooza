@@ -366,7 +366,7 @@ nav {
     display: block;
   }
   .press-header {
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
   }
@@ -387,7 +387,7 @@ nav {
   }
   .footer {
     font-size: .925rem;
-    margin-top: 15rem;
+    margin-top: 12rem;
     margin-bottom: 4rem;
     width: 90%;
   }
