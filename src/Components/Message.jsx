@@ -10,7 +10,7 @@ export default class Message extends Component {
         opacity: 1,
         transition: {
           delayChildren: .25,
-          staggerChildren: 2,
+          staggerChildren: 1.5,
         }
       }
     }
