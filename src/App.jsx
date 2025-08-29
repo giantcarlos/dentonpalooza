@@ -28,7 +28,7 @@ function App() {
           <NavBar />
         </header> */}
         <Message />
-        <Press />
+        {/* <Press /> */}
         <Footer />
       </div>
     </BrowserRouter>

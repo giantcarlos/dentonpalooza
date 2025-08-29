@@ -162,7 +162,7 @@ nav {
 .press-header {
   color: #eeeeee;
   margin-top: 4rem;
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
   font-size: 3rem;
 }
 
@@ -221,7 +221,7 @@ nav {
 }
 
 .footer {
-  margin-top: 19rem;
+  margin-top: 14rem;
   border-top: 1px solid #c5c5c5;
   width: 80%;
   margin-left: auto;
@@ -231,8 +231,10 @@ nav {
   font-size: 1rem;
 }
 
-.footer a {
+a {
   color: #ef0000;
+  text-decoration: underline;
+  font-style: italic;
 }
 
 .footer-social {
@@ -387,7 +389,7 @@ nav {
   }
   .footer {
     font-size: .925rem;
-    margin-top: 12rem;
+    margin-top: 11rem;
     margin-bottom: 4rem;
     width: 90%;
   }

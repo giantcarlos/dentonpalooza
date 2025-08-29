@@ -11,7 +11,7 @@ export default class Press extends Component {
 
     return (
       <motion.section variants={item} initial="hidden" animate="show" transition={{duration: 1.75, delay: 3.125 }} id="press" className="press">
-        <h2 className="press-header">DENTONPALOOZA 5</h2>
+        {/* <h2 className="press-header">DENTONPALOOZA 5</h2> */}
         {/* <div className="press-grid">
             <a className="press-card" href="https://dentonrc.com/entertainment/dentonpalooza-4-books-dentons-mad-max-truck-invites-mayor-to-sing-nu-metal-onstage-and/article_3f17c2a2-2c1d-11ef-9010-f3ac1b7b25c4.html" target="_blank">
                 <div className="press-image">
