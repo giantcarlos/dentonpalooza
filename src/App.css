@@ -314,6 +314,9 @@ a {
   .hamburger {
     margin-right: .5rem;
   }
+  .message {
+    margin-top: 3rem;
+  }
   .image-grid {
     --gap: 20px;
     --num-cols: 3;
