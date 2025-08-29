@@ -161,8 +161,8 @@ nav {
 
 .press-header {
   color: #eeeeee;
-  margin-top: 4rem;
-  margin-bottom: 4rem;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
   font-size: 3rem;
 }
 
@@ -221,7 +221,7 @@ nav {
 }
 
 .footer {
-  margin-top: 14rem;
+  margin-top: 10rem;
   border-top: 1px solid #c5c5c5;
   width: 80%;
   margin-left: auto;
@@ -369,8 +369,8 @@ a {
   }
   .press-header {
     font-size: 1.8rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
   }
   .press-card {
     width: 90%;
@@ -389,7 +389,7 @@ a {
   }
   .footer {
     font-size: .925rem;
-    margin-top: 11rem;
+    margin-top: 6rem;
     margin-bottom: 4rem;
     width: 90%;
   }
