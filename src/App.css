@@ -315,6 +315,7 @@ a {
   }
   .message {
     margin-top: 6rem;
+    margin-bottom: 6rem;
   }
   .image-grid {
     --gap: 20px;
@@ -391,7 +392,7 @@ a {
   }
   .footer {
     font-size: .925rem;
-    margin-top: 2rem;
+    margin-top: 4rem;
     margin-bottom: 4rem;
     width: 90%;
   }
