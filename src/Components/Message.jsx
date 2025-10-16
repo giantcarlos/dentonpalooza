@@ -9,25 +9,21 @@ export default class Message extends Component {
       show: {
         opacity: 1,
         transition: {
-          delayChildren: .125,
-          staggerChildren: .9,
+          delayChildren: 1,
+          staggerChildren: 1.75,
         }
       }
     }
 
     const item = {
       hidden: { opacity: 0 },
-      show: { opacity: 1, transition: {duration: 1.25 }
+      show: { opacity: 1, transition: {duration: 1.5 }
     }}
 
     return (
       <motion.section variants={container} initial="hidden" animate="show" className="message">
-        <motion.p variants={item} >DENTONPALOOZA returns.</motion.p>
-        <motion.p variants={item} >October 11, 2025. Dan's Silverleaf.</motion.p>
-        <motion.h2 variants={item} className="press-header" >DENTONPALOOZA 5</motion.h2>
-        <motion.p variants={item} >
-           <a href='https://www.prekindle.com/event/17543-dentonpalooza-5-denton' target="_blank">Tickets</a> available now.
-        </motion.p>
+        <motion.p variants={item} >DENTONPALOOZA's lifetime contributions to local charities have surpassed $33,000.</motion.p>
+        <motion.p variants={item} >Thank you, Denton, for your generosity and support.</motion.p>
       </motion.section>
     )
   }
